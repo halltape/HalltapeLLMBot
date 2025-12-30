@@ -31,11 +31,13 @@ python3 rag_data.py
 
 1. Создать файлик `.env` и наполнить его типа:
 
+```bash
 TELEGRAM_TOKEN=********
 
 DEEPSEEK_API_KEY=********
 
 DEEPSEEK_MODEL=deepseek-chat
+```
 
 
 2. Выполнить команду
